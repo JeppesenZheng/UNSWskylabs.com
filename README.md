@@ -45,7 +45,7 @@ firebase init\
 	enter build\
 	single pageapp Yes\
 	first hosting\
-	github No\
+	github No
 ### Normally use
 firebase deploy
 ### deploy to site skylabssite
