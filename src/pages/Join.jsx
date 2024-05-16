@@ -62,15 +62,16 @@ function Join() {
                 </p>
                 <br></br>
                 <p>
-                Inductions for prospective technical members will be held from in the beginning of Term 2 in 2024. If you wish to join our T2 2024 induction, please come to our FPV Flight Club events where we can grab your name or follow our socials so you can fill the eoi form when it is released.
+                Inductions for prospective technical members has been released for Term 2 in 2024 in the
+                following link!
 
                 </p>
             </div>
-            {/* <Link to='https://forms.office.com/r/QdBfjD7h9x'>
+            <Link to='https://forms.office.com/r/ymEMnF8xyR'>
                 <div className='pt-8'>
                     <button className="btn btn-outline">T1 2024 Induction EOI</button>
                 </div>
-            </Link> */}
+            </Link>
         </div>
       </>
     )

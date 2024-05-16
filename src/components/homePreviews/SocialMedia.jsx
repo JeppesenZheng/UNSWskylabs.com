@@ -35,24 +35,24 @@ function SocialMedia() {
                         <a className='text-2xl' href=""><FaTiktok className='inline px-2 text-5xl' />TikTok</a>
                         </li>
                     </a> */}
-                    <a href='https://youtube.com/@skylabsunsw' target='_blank'>
+                    {/* <a href='https://youtube.com/@skylabsunsw' target='_blank'>
                         <li
                         class="w-full p-4 hover:rounded-xl hover:bg-slate-200">
                         <a className='text-2xl' href=""><FaYoutube className='inline px-2 text-5xl' />YouTube</a>
                         </li>
-                    </a>
+                    </a> */}
                     <a href='https://www.challeng.unsw.edu.au/challeng-projects/aiaa-design-build-fly' target='_blank'>
                         <li
                         class="w-full p-4 hover:rounded-xl hover:bg-slate-200">
                         <a className='text-2xl' href=""><FaUniversity className='inline px-2 text-5xl' />ChallENG</a>
                         </li>
                     </a>
-                    <a href='https://linktr.ee/dbfunsw' target='_blank'>
+                    {/* <a href='https://linktr.ee/dbfunsw' target='_blank'>
                         <li
                         class="w-full p-4 hover:rounded-xl hover:bg-slate-200">
                         <a className='text-2xl' href=""><FaTree className='inline px-2 text-5xl' />Linktree</a>
                         </li>
-                    </a>
+                    </a> */}
                 </ul>
             </div>
         </div>
