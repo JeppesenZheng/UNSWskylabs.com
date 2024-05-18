@@ -69,7 +69,7 @@ function Join() {
             </div>
             <Link to='https://forms.office.com/r/ymEMnF8xyR'>
                 <div className='pt-8'>
-                    <button className="btn btn-outline">T1 2024 Induction EOI</button>
+                    <button className="btn btn-outline">T2 2024 Induction EOI</button>
                 </div>
             </Link>
         </div>
