@@ -1,5 +1,6 @@
 {
   "hosting": [{
+    "site": "dbfsite-455d5",
     "public": "build",
     "ignore": [
       "firebase.json",
@@ -10,6 +11,13 @@
       {
         "source": "**",
         "destination": "/index.html"
+      }
+    ],
+    "redirects": [
+      {
+        "source": "**",
+        "destination": "https://unswskylabs.com",
+        "type": 301
       }
     ]
   },
