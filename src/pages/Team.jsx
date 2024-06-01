@@ -27,6 +27,10 @@ import RayH from '../assets/Profiles/RayH.jpg'
 import SophieW from '../assets/Profiles/SophieW.jpg'
 import ConnorD from '../assets/Profiles/ConnorD.jpg'
 import JackL from '../assets/Profiles/JackL.jpeg'
+import LukeP from '../assets/Profiles/LukeP.jpg'
+import HeathL from '../assets/Profiles/HeathL.jpg'
+import JunX from '../assets/Profiles/JunX.jpg'
+import SiyuanZ from '../assets/Profiles/SiyuanZ.jpg'
 
 export default function Team() {
     return (
