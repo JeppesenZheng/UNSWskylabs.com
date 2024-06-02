@@ -31,6 +31,7 @@ import LukeP from '../assets/Profiles/LukeP.jpg'
 import HeathL from '../assets/Profiles/HeathL.jpg'
 import JunX from '../assets/Profiles/JunX.jpg'
 import SiyuanZ from '../assets/Profiles/SiyuanZ.jpg'
+import SophieW1 from '../assets/Profiles/SophieW1.jpg'
 
 export default function Team() {
     return (
@@ -45,12 +46,13 @@ export default function Team() {
             </div>
         </div>
         <div class="flex flex-row flex-wrap items-top justify-center max-w-screen px-24">
-            <Profile image={LongkaiL} name='Longkai Li' position='President' bio='I ❤️ planes' />
-            <Profile image={SophieW} name='Sophie Wu' position='Secretary & Grievance Officer' bio='It takes more than one to build a plane, so success is a team effort' />
-            <Profile image={RayH} name='Ray H' position='Treasurer' bio='"Why can&apos;t we attach a rocket booster to the wing?"' />
-            <Profile image={ConnorD} name='Connor Duigan' position='Media and Marketing Officer & Grievance Officer' bio='Getting to apply technical knowledge from courses to build a functional vehicle greatly enhances understanding and helps understand nuances, going from theory to reality is always satisfying.' />
-            <Profile image={TalalT} name='Talal T' position='Relations & Events Officer' bio='DBF FPV is a great place to get involved in drone racing and connect with likeminded students. The sessions are the best part of my week.' />
-            <Profile image={JamesR} name='James R' position='Safety Officer' bio='It is amazing to see everyone&apos;s hard work pay off on fly day, and to know you were a part the plane&apos;s success.' />
+            <Profile image={LongkaiL} name='Longkai L' position='President' bio='I ❤️ planes' />
+            <Profile image={PhoebeL} name='Phoebe L' position='Secretary & Grievance Officer' bio='We are a society where you can really develop technical skills you wouldn&apos;t normally learn in your typical uni course. Knowledge that I&apos;ve gained from DBF has translated directly into me being more prepared for my internship with Boeing.' />
+            <Profile image={HeathL} name='Heath L' position='Treasurer' bio='"Why can&apos;t we attach a rocket booster to the wing?"' />
+            <Profile image={SiyuanZ} name='Siyuan Z' position='Media and Marketing Officer' bio='Getting to apply technical knowledge from courses to build a functional vehicle greatly enhances understanding and helps understand nuances, going from theory to reality is always satisfying.' />
+            <Profile image={MuhammadH} name='Muhammad H' position='Relations Officer' bio='DBF FPV is a great place to get involved in drone racing and connect with likeminded students. The sessions are the best part of my week.' />
+            <Profile image={LukeP} name='Luke Pan' position='Events Officer'bio=''/>
+            <Profile image={JamesR} name='James R' position='Safety & Grievance Officer' bio='It is amazing to see everyone&apos;s hard work pay off on fly day, and to know you were a part the plane&apos;s success.' />
         </div>
 
         <div className='bg-sky-100 py-4'>
@@ -58,7 +60,7 @@ export default function Team() {
                 <div className='px-8'>
                     <h1 className="text-5xl py-6 font-bold text-center">Design Build and Fly</h1>
                 </div>
-                <Profile image={PhoebeL} name='Phoebe L' position='Project Director of Skylabs Design Build Fly' bio='We are a society where you can really develop technical skills you wouldn&apos;t normally learn in your typical uni course. Knowledge that I&apos;ve gained from DBF has translated directly into me being more prepared for my internship with Boeing.' />
+                <Profile image={LukeP} name='Luke P' position='Project Director of Skylabs Design Build Fly' bio='' />
             </div>
             
             <div className='px-8'>
@@ -75,7 +77,7 @@ export default function Team() {
                 <div className='px-8'>
                     <h1 className="text-5xl py-6 font-bold text-center">Project VTOL</h1>
                 </div>
-                <Profile image={SophieW} name='Sophie Wu' position='Project Director of Skylabs VTOL' bio='It takes more than one to build a plane, so success is a team effort.' />
+                <Profile image={SophieW1} name='Sophie Wu' position='Project Director of Skylabs VTOL' bio='It takes more than one to build a plane, so success is a team effort.' />
             </div>
             
             <div className='px-8'>
