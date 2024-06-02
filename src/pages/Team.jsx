@@ -50,7 +50,7 @@ export default function Team() {
             <Profile image={PhoebeL} name='Phoebe L' position='Secretary & Grievance Officer' bio='We are a society where you can really develop technical skills you wouldn&apos;t normally learn in your typical uni course. Knowledge that I&apos;ve gained from DBF has translated directly into me being more prepared for my internship with Boeing.' />
             <Profile image={HeathL} name='Heath L' position='Treasurer' bio='"Why can&apos;t we attach a rocket booster to the wing?"' />
             <Profile image={SiyuanZ} name='Siyuan Z' position='Media and Marketing Officer' bio='Getting to apply technical knowledge from courses to build a functional vehicle greatly enhances understanding and helps understand nuances, going from theory to reality is always satisfying.' />
-            <Profile image={MuhammadH} name='Muhammad H' position='Relations Officer' bio='DBF FPV is a great place to get involved in drone racing and connect with likeminded students. The sessions are the best part of my week.' />
+            <Profile image={MuhammadH} name='Muhammad H' position='Relations Officer' bio='Joining Design build fly as R&D gave me valuable hands on experience; designing and prototyping skills; that I didn&apos;t find in my coursework.' />
             <Profile image={LukeP} name='Luke Pan' position='Events Officer'bio=''/>
             <Profile image={JamesR} name='James R' position='Safety & Grievance Officer' bio='It is amazing to see everyone&apos;s hard work pay off on fly day, and to know you were a part the plane&apos;s success.' />
         </div>
