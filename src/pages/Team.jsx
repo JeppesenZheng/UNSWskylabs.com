@@ -48,8 +48,8 @@ export default function Team() {
         <div class="flex flex-row flex-wrap items-top justify-center max-w-screen px-24">
             <Profile image={LongkaiL} name='Longkai L' position='President' bio='I ❤️ planes' />
             <Profile image={PhoebeL} name='Phoebe L' position='Secretary & Grievance Officer' bio='We are a society where you can really develop technical skills you wouldn&apos;t normally learn in your typical uni course. Knowledge that I&apos;ve gained from DBF has translated directly into me being more prepared for my internship with Boeing.' />
-            <Profile image={HeathL} name='Heath L' position='Treasurer' bio='"Why can&apos;t we attach a rocket booster to the wing?"' />
-            <Profile image={SiyuanZ} name='Siyuan Z' position='Media and Marketing Officer' bio='Getting to apply technical knowledge from courses to build a functional vehicle greatly enhances understanding and helps understand nuances, going from theory to reality is always satisfying.' />
+            <Profile image={HeathL} name='Heath L' position='Treasurer' bio='' />
+            <Profile image={SiyuanZ} name='Siyuan Z' position='Media and Marketing Officer' bio='' />
             <Profile image={MuhammadH} name='Muhammad H' position='Relations Officer' bio='Joining Design build fly as R&D gave me valuable hands on experience; designing and prototyping skills; that I didn&apos;t find in my coursework.' />
             <Profile image={LukeP} name='Luke Pan' position='Events Officer'bio=''/>
             <Profile image={JamesR} name='James R' position='Safety & Grievance Officer' bio='It is amazing to see everyone&apos;s hard work pay off on fly day, and to know you were a part the plane&apos;s success.' />
@@ -67,8 +67,9 @@ export default function Team() {
                 <h1 className="text-4xl pb-8 pt-4 font-bold text-center">Design Build and Fly Directors</h1>
             </div>
             <div class="flex flex-row flex-wrap items-top justify-center max-w-screen px-24">
-                <Profile image={TaylorJ} name='Taylor J' position='Director of Flight Dynamics' bio='It was a great opportunity to turn theory into practice through teamwork. I could also improve my prototyping and problem-solving skills.' />
-                <Profile image={VictorT} name='Victor T' position='Director of Aerostructures' bio='If you like to work on everything, you will enjoy this.' />
+                {/* <Profile image={TaylorJ} name='Taylor J' position='Director of Flight Dynamics' bio='It was a great opportunity to turn theory into practice through teamwork. I could also improve my prototyping and problem-solving skills.' /> */}
+                <Profile image={HeathL} name='Heath L' position='Director of Aerostructures & Aerodynamics' bio='' />
+                {/* <Profile image={empty} name='Minh' position='Director of mission systems' bio='' /> */}
                 {/* <Profile image={MikeL} name='Mike L' position='Senior Aerodynamics Member' bio='Getting to apply technical knowledge from courses to build a functional vehicle greatly enhances understanding and helps understand nuances, going from theory to reality is always satisfying.' /> */}
             </div>
         </div>
@@ -84,7 +85,9 @@ export default function Team() {
                 <h1 className="text-4xl pb-8 pt-4 font-bold text-center">Project VTOL Directors</h1>
             </div>
             <div class="flex flex-row flex-wrap items-top justify-center max-w-screen px-24">
-                <Profile image={MuhammadH} name='Muhammad H' position='Director of Avionics' bio='Joining Design build fly as R&D gave me valuable hands on experience; designing and prototyping skills; that I didn&apos;t find in my coursework.' />
+                <Profile image={JunX} name='Jun' position='Director of Aerodynamics' bio=''/>
+                <Profile image={LongkaiL} name='Longkai L' position='Director of Aerostructures' bio='I ❤️ planes'/>
+                <Profile image={MuhammadH} name='Muhammad H' position='Director of Systems' bio='Joining Design build fly as R&D gave me valuable hands on experience; designing and prototyping skills; that I didn&apos;t find in my coursework.' />
                 {/* <Profile image={MikeL} name='Mike L' position='Senior Aerodynamics Member' bio='Getting to apply technical knowledge from courses to build a functional vehicle greatly enhances understanding and helps understand nuances, going from theory to reality is always satisfying.' /> */}
             </div>
         </div>
