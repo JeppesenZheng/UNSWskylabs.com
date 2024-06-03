@@ -8,6 +8,8 @@ import Default from '../../assets/Profiles/default.jpg'
 // import AkashL from '../../assets/Profiles/AkashL.png'
 import SophieW from '../../assets/Profiles/SophieW.jpg'
 import LongkaiL from '../../assets/Profiles/LongkaiL.jpg'
+import LukeP from '../../assets/Profiles/LukeP.jpg'
+import SophieW1 from '../../assets/Profiles/SophieW1.jpg'
 
 
 function MeetTeamPreview() {
@@ -52,23 +54,21 @@ function MeetTeamPreview() {
             <div class="px-12 py-4 w-[350px] text-center">
                 <div class="mb-6 flex justify-center">
                     <img
-                    src={PhoebeL}
+                    src={LukeP}
                     class="w-48 max-h-48 object-cover rounded-full shadow-lg dark:shadow-black/30" />
                 </div>
-                <h5 class="mb-2 text-xl font-semibold">Phoebe L</h5>
+                <h5 class="mb-2 text-xl font-semibold">Luke P</h5>
                 <h6 class="mb-2 font-semibold text-primary dark:text-primary-500">
                     Director of Design Build and Fly
                 </h6>
                 <p class="mb-4">
-                  We are a society where you can really develop technical skills you wouldn't normally learn in
-                  your typical uni course. Knowledge that I've gained from DBF has 
-                  translated directly into me being more prepared for my internship with Boeing.
+                  
                 </p>
             </div>
             <div class="px-12 py-4 w-[350px] text-center">
                 <div class="mb-6 flex justify-center">
                     <img
-                    src={SophieW}
+                    src={SophieW1}
                     class="w-48 max-h-48 object-cover rounded-full shadow-lg dark:shadow-black/30" />
                 </div>
                 <h5 class="mb-2 text-xl font-semibold">Sophie Wu</h5>

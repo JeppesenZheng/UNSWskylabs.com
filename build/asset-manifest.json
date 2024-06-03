@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fa2a6ea7.css",
-    "main.js": "/static/js/main.be687525.js",
+    "main.js": "/static/js/main.12a3bdbc.js",
     "static/media/21-6.JPG": "/static/media/21-6.5c869677e54ded075dfc.JPG",
     "static/media/21-5.JPG": "/static/media/21-5.bbcdca99aa0276fa950f.JPG",
     "static/media/21-8.JPG": "/static/media/21-8.bce2809ce653fafee286.JPG",
@@ -22,10 +22,16 @@
     "static/media/flydayHeader2.png": "/static/media/flydayHeader2.4adedc8e5a1610f1ffc7.png",
     "static/media/DBF Logo v1.png": "/static/media/DBF Logo v1.c557cce087f3dba74ace.png",
     "static/media/infield.jpg": "/static/media/infield.4f1624a450033a2dcdb6.jpg",
+    "static/media/JunX.jpg": "/static/media/JunX.335efb91ef9f84daf01b.jpg",
+    "static/media/HeathL.jpg": "/static/media/HeathL.bf25ea091c0ee42bd54a.jpg",
+    "static/media/LukeP.jpg": "/static/media/LukeP.477bf46857ad231ecd46.jpg",
+    "static/media/LongkaiL.jpg": "/static/media/LongkaiL.4cad41ea70772f1f774c.jpg",
     "static/media/VTOL3.jpg": "/static/media/VTOL3.fed1fd5ff7c86ea36ec2.jpg",
     "static/media/mayTGM.png": "/static/media/mayTGM.4293466fab4de9078478.png",
+    "static/media/SiyuanZ.jpg": "/static/media/SiyuanZ.029306d3d57171f51554.jpg",
     "static/media/23-1_leftTurn2.png": "/static/media/23-1_leftTurn2.b24c2603112354afe104.png",
     "static/media/23-1_leftTurn.png": "/static/media/23-1_leftTurn.cf9647bd27562f6e70c3.png",
+    "static/media/SophieW1.jpg": "/static/media/SophieW1.eb737bbe3d0ec9c60008.jpg",
     "static/media/ManhoiL.png": "/static/media/ManhoiL.d53b55f8225d931f165c.png",
     "static/media/DaphneL.png": "/static/media/DaphneL.212af48f412afb79fad5.png",
     "static/media/VictorT.png": "/static/media/VictorT.370830cd04cd79f34ad0.png",
@@ -58,10 +64,10 @@
     "static/media/ConnorD.jpg": "/static/media/ConnorD.d59e34dc13968b3d8f45.jpg",
     "index.html": "/index.html",
     "main.fa2a6ea7.css.map": "/static/css/main.fa2a6ea7.css.map",
-    "main.be687525.js.map": "/static/js/main.be687525.js.map"
+    "main.12a3bdbc.js.map": "/static/js/main.12a3bdbc.js.map"
   },
   "entrypoints": [
     "static/css/main.fa2a6ea7.css",
-    "static/js/main.be687525.js"
+    "static/js/main.12a3bdbc.js"
   ]
 }
