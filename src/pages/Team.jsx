@@ -51,7 +51,7 @@ export default function Team() {
             <Profile image={HeathL} name='Heath L' position='Treasurer' bio='' />
             <Profile image={SiyuanZ} name='Siyuan Z' position='Media and Marketing Officer' bio='' />
             <Profile image={MuhammadH} name='Muhammad H' position='Relations Officer' bio='Joining Design build fly as R&D gave me valuable hands on experience; designing and prototyping skills; that I didn&apos;t find in my coursework.' />
-            <Profile image={LukeP} name='Luke Pan' position='Events Officer'bio=''/>
+            <Profile image={LukeP} name='Luke P' position='Events Officer'bio=''/>
             <Profile image={JamesR} name='James R' position='Safety & Grievance Officer' bio='It is amazing to see everyone&apos;s hard work pay off on fly day, and to know you were a part the plane&apos;s success.' />
         </div>
 
@@ -69,7 +69,7 @@ export default function Team() {
             <div class="flex flex-row flex-wrap items-top justify-center max-w-screen px-24">
                 {/* <Profile image={TaylorJ} name='Taylor J' position='Director of Flight Dynamics' bio='It was a great opportunity to turn theory into practice through teamwork. I could also improve my prototyping and problem-solving skills.' /> */}
                 <Profile image={HeathL} name='Heath L' position='Director of Aerostructures & Aerodynamics' bio='' />
-                {/* <Profile image={empty} name='Minh' position='Director of mission systems' bio='' /> */}
+                <Profile image={Default} name='Minh' position='Director of Mission systems' bio='' />
                 {/* <Profile image={MikeL} name='Mike L' position='Senior Aerodynamics Member' bio='Getting to apply technical knowledge from courses to build a functional vehicle greatly enhances understanding and helps understand nuances, going from theory to reality is always satisfying.' /> */}
             </div>
         </div>
