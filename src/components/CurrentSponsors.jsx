@@ -5,6 +5,7 @@ import ansys from '../assets/ansys2.jpg'
 import leap from '../assets/leap1.png'
 import quickstep from '../assets/Sponsors/Quickstep.png'
 import onshape from '../assets/Sponsors/onshape.jpeg'
+import NSWGov from '../assets/Sponsors/NSWGov_OCSE_Logo_RGB_Primary_Blue.png'
 
 export default function CurrentSponsors() {
     return(
@@ -38,6 +39,10 @@ export default function CurrentSponsors() {
             class="w-40 m-5 p-2" />
             <img
             src={playwithcarbon}
+            alt=''
+            class="w-64 m-5 p-2" />
+            <img
+            src={NSWGov}
             alt=''
             class="w-64 m-5 p-2" />
         </div>
