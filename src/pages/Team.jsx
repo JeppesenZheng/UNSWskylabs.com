@@ -32,6 +32,7 @@ import HeathL from '../assets/Profiles/HeathL.jpg'
 import JunX from '../assets/Profiles/JunX.jpg'
 import SiyuanZ from '../assets/Profiles/SiyuanZ.jpg'
 import SophieW1 from '../assets/Profiles/SophieW1.jpg'
+import MinhT from '../assets/Profiles/MinhT.jpg'
 
 export default function Team() {
     return (
@@ -69,7 +70,7 @@ export default function Team() {
             <div class="flex flex-row flex-wrap items-top justify-center max-w-screen px-24">
                 {/* <Profile image={TaylorJ} name='Taylor J' position='Director of Flight Dynamics' bio='It was a great opportunity to turn theory into practice through teamwork. I could also improve my prototyping and problem-solving skills.' /> */}
                 <Profile image={HeathL} name='Heath L' position='Director of Aerostructures & Aerodynamics' bio='' />
-                <Profile image={Default} name='Minh' position='Director of Mission systems' bio='' />
+                <Profile image={MinhT} name='Minh T' position='Director of Mission systems' bio='' />
                 {/* <Profile image={MikeL} name='Mike L' position='Senior Aerodynamics Member' bio='Getting to apply technical knowledge from courses to build a functional vehicle greatly enhances understanding and helps understand nuances, going from theory to reality is always satisfying.' /> */}
             </div>
         </div>
