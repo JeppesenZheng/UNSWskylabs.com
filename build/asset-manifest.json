@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fa2a6ea7.css",
-    "main.js": "/static/js/main.3aa7ae5f.js",
+    "main.js": "/static/js/main.f4f6b277.js",
     "static/media/21-6.JPG": "/static/media/21-6.5c869677e54ded075dfc.JPG",
     "static/media/21-5.JPG": "/static/media/21-5.bbcdca99aa0276fa950f.JPG",
     "static/media/21-8.JPG": "/static/media/21-8.bce2809ce653fafee286.JPG",
@@ -55,6 +55,7 @@
     "static/media/scomo.jpg": "/static/media/scomo.c2c6774912bd9b83dc56.jpg",
     "static/media/MikeL.jpg": "/static/media/MikeL.d0471179cfaee5ad1abc.jpg",
     "static/media/arc.png": "/static/media/arc.68be866a0bd42ff201d8.png",
+    "static/media/MinhT.jpg": "/static/media/MinhT.da57491aca6588274807.jpg",
     "static/media/SherryZ.jpg": "/static/media/SherryZ.dc5d10f017ed8180e3f9.jpg",
     "static/media/JackL.jpeg": "/static/media/JackL.f047e4dc68605fd42663.jpeg",
     "static/media/default.jpg": "/static/media/default.7fe14f0accd9979e3303.jpg",
@@ -65,10 +66,10 @@
     "static/media/ConnorD.jpg": "/static/media/ConnorD.d59e34dc13968b3d8f45.jpg",
     "index.html": "/index.html",
     "main.fa2a6ea7.css.map": "/static/css/main.fa2a6ea7.css.map",
-    "main.3aa7ae5f.js.map": "/static/js/main.3aa7ae5f.js.map"
+    "main.f4f6b277.js.map": "/static/js/main.f4f6b277.js.map"
   },
   "entrypoints": [
     "static/css/main.fa2a6ea7.css",
-    "static/js/main.3aa7ae5f.js"
+    "static/js/main.f4f6b277.js"
   ]
 }
