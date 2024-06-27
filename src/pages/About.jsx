@@ -94,12 +94,12 @@ export default function About() {
                                 <td><p>Design Build and Fly: Phoebe Loughhead</p><p>FPV Flight Club: Talal Tariq</p></td>
                             </tr>
                             <tr>
-                                <td>2023-2024</td>
+                                <td>2023</td>
                                 <td>Sam Trustrum</td>
                                 <td><p>Design Build and Fly: Phoebe Loughhead</p><p>VTOL: Akash Lakshman</p><p>FPV Flight Club: Talal Tariq</p></td>
                             </tr>
                             <tr>
-                                <td>2024</td>
+                                <td>2023-2024</td>
                                 <td>Longkai Li</td>
                                 <td><p>Design Build and Fly: Phoebe Loughhead</p><p>VTOL: Sophie Wu</p><p>FPV Flight Club: Talal Tariq</p></td>
                             </tr>

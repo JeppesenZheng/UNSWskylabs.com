@@ -15,7 +15,6 @@ function Footer() {
           {/* <label htmlFor="my-modal-4" className="">Secret Button</label> {/* The button to open modal */}
           <p>E: <a target="_blank" href="mailto: unswdbf@gmail.com">unswdbf@gmail.com</a></p>
           <p>Copyright &copy; UNSW Design Build Fly {footerYear}</p>
-          <p className='text-xs'>Website optimized by Siyuan Zheng</p>
           
           {/* Put this part before </body> tag */}
           <input type="checkbox" id="my-modal-4" className="modal-toggle" />
